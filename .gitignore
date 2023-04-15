@@ -1,0 +1,4 @@
+# Project exclude paths
+/java-cache/target/
+/rocket-mq/target/
+/springboot-jackson/target/
